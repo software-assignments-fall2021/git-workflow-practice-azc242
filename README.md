@@ -1,2 +1,8 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Git Practice Assignment
+
+1. Link to the article: https://techbeacon.com/app-dev-testing/7-bad-habits-highly-ineffective-software-engineers
+2. Although most of this article was reinforcing what I already knew, there was one "bad habit" mentioned that I hadn't considered before. The bah habit that John P. Mello Jr., the author, mentioned is that bad software engineers tend to say "no" to things. He argues that doing so blocks the creative process, and that many software engineers say "no" in fear of trying new things that don't work or will break something that works. In some sense, I agree with what the author is saying, because I am guilty of it at times.
+
+   I feel like the educational system trains people to think of doing the bare minimum to get a working project. It discourages going above and beyond into challenges that may be risky. In the end, however, these habits hinder us as software engineers.
+3. Michelle Tang's Comments:
+While I agree with the seven bad habits that were mentioned in the article, I found the very last one, regarding security, to be particularly important. In nearly every job you do, I believe the first six comments are important for long-term success. In fact, creativity, passion, and empathy are skills that are useful in all aspects of one life. The idea of maintaining security – especially in a world where data is becoming the most expensive/useful thing – is essential to the well-being of others. Whereas before cybersecurity seemed to be a separate field now we must come to terms with the fact that data is powerful and with great power comes great responsibility.
